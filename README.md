@@ -13,3 +13,9 @@
 ### Definición de la Tienda:
 
 * El público al que va este software específicamente es a "mini-markets", pues estos poseen el suficiente flujo de clientes como para necesitar este apoyo en el trabajo del cajero.
+
+### División del proyecto:
+
+* Zuzunaga  : Verificacion de los productos.
+* Arango    : Definición de Arrays y generación de la boleta. 
+* Gutierrez : Método de pago.
